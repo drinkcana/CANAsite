@@ -1,0 +1,44 @@
+# Each page blueprint must have a title, the title may be different from the file name
+title: About us
+
+# Each page can have an icon that is shown in page listings when no preview image is available.
+icon: ☎️
+columns:
+  # The first column has one section for the subpages of the `photography` page in card layout
+  # It reuses the pages section defined in `/site/blueprints/sections/albums.yml`
+  - width: 1/2
+      fields:
+        text:
+          label: Main About Text
+          type: textarea
+          size: huge
+        address:
+          label: Address
+          type: textarea
+        email:
+          label: Email
+          type: email
+        phone:
+          label: Phone
+          type: tel
+        social:
+          label: Links
+          type: structure
+          fields:
+            platform:
+              label: Platform
+              type: text
+              width: 1/2
+            url:
+              label: URL
+              type: url
+              width: 1/2
+
+     
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+      gallery:
+        label: Imagens
+        type: files

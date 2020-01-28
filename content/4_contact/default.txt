@@ -1,0 +1,10 @@
+Title: Contact
+
+----
+
+Text:
+
+You can reach us at
+(email: hi@drinkcana.com text: hi@drinkcana.com)
+(email: press@drinkcana.com text: press@drinkcana.com)
+(email: commercial@drinkcana.com text: commercial@drinkcana.com)
