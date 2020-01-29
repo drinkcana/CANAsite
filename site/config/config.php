@@ -9,11 +9,9 @@
  */
 return [
     'debug' => true,
-];
-
-return [
-  'thumbs' => [
-    'srcsets' => [
+    'panel' => ['install' => true ],
+    'thumbs' => [
+     'srcsets' => [
             'default' => [500, 1200, 2000],
             'cover' => [900, 1920, 2440]
         ]
