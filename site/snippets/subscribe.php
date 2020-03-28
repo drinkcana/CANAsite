@@ -2,9 +2,9 @@
 
 <!-- Begin Mailchimp Signup Form -->
 
-<form action="https://drinkcana.us19.list-manage.com/subscribe/post?u=808056df57373274147e42534&amp;id=fcc803c70c" method="POST" accept-charset="utf-8" class="m-form" id="mc-embedded-subscribe-form">
+<form action="https://drinkcana.us19.list-manage.com/subscribe/post?u=808056df57373274147e42534&amp;id=fcc803c70c" method="POST" target="_blank" accept-charset="utf-8" class="m-form" id="mc-embedded-subscribe-form">
   <div class="m-form__pill">
-    <input id="mce-EMAIL" type="email" class="m-form__input" placeholder="give us that sweet email address" required>
+    <input id="mce-EMAIL" name="EMAIL" type="email" class="m-form__input" placeholder="give us that sweet email address" required>
   </div>
 
   <div style="display: none;">
