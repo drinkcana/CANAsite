@@ -1,3 +1,7 @@
+<!-- Google AdSense Code -->
+<script data-ad-client="ca-pub-2861442566993126" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- End Google AdSense Code -->
+
 <!-- Facebook Pixel Code -->
 <script>
   !function(f,b,e,v,n,t,s)
@@ -39,6 +43,9 @@ twq('track','PageView');
 </script>
 <!-- End Twitter universal website tag code -->
 
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7132894.js"></script>
+<!-- End of HubSpot Embed Code -->
 
 <!-- LinkedIn website tag code -->
 <script type="text/javascript">
