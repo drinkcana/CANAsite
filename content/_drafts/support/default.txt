@@ -1,0 +1,9 @@
+Title: support
+
+----
+
+Text:
+
+Welcome to the help section. 
+
+Here you can find some help for our app, our bottle, or anything really. Just shoot us an email help@drinkcana.com
