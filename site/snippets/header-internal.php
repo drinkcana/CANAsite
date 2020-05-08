@@ -28,7 +28,7 @@
 
   <?= js(['assets/js/jquery.min.js']) ?>
   <?= js(['assets/js/flickity.pkgd.min.js']) ?>
-  <?= js(['assets/js/app.min.js']) ?>
+  <?= js(['assets/js/app.js']) ?>
   <?= js(['assets/js/instafeed.min.js']) ?>
 
 

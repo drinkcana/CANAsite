@@ -29,6 +29,11 @@ $('.carousel-rwd').on( 'click', function() {
     
   });
 
+      $(".folder-caller").click(function() { 
+      $(".tips-wrapper").toggleClass("tip-visible");
+    
+  });
+
    $(".go-away-kids").mouseover(function(){
       $(".age-wrapper").addClass("blurry");
       }).mouseout(function(){
