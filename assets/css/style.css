@@ -356,7 +356,7 @@ a.soon:hover {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1003;
+    z-index: 10003;
     background-color: #fff;
     -webkit-transition: .5s ease;
     -o-transition: .5s ease;
