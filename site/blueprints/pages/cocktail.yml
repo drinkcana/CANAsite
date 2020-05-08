@@ -1,0 +1,21 @@
+title: cocktail
+
+
+status:
+  draft: true
+  listed: true
+
+columns:
+  - width: 1/2
+    fields:
+      text:
+        type: textarea
+        size: medium
+        label: Main Campaign text
+
+  - width: 1/2
+    sections:
+      images:
+        label: Imagens
+        type: files
+        template: image
