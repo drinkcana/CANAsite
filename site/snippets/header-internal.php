@@ -57,6 +57,7 @@
         foreach ($site->children()->listed() as $item): ?>
         <a href="<?= $item->url() ?>" class="menu-alternate"><?= $item->title() ?></a> 
         <?php endforeach ?>
+        <a href="https://shop.drinkcana.com/" class="menu-alternate" target="_blank">Shop</a>
         </div>
       </nav>
 

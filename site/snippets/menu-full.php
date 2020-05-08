@@ -1,12 +1,13 @@
 <nav class="menu-full">
 
-		<div class="nav-top">
-			<button class="menu-full-caller menu-blur-caller" alt="close this menu"></button>
-			<a class="cana-home" href="<?= $site->url() ?>"><img src="<?php echo url('assets/images/cana-logotype.svg') ?>" alt="CÃNA Logo in Written"></a>
-			<button class="cart-future soon"><img src=""></button>
-		</div>
+    <div class="nav-top">
+      <button class="menu-full-caller menu-blur-caller" alt="close this menu"></button>
+      <a class="cana-home" href="<?= $site->url() ?>"><img src="<?php echo url('assets/images/cana-logotype.svg') ?>" alt="CÃNA Logo in Written"></a>
+      <button class="cart-future soon"><img src=""></button>
+    </div>
 
           <div class="menu-list">
+            <a href="https://shop.drinkcana.com/" target="_blank">Shop</a>
             <?php 
               foreach ($site->children()->visible() as $item): ?>
           
@@ -14,9 +15,11 @@
 
               <?php endforeach ?>
               
+           <a href="/cocktails" >Cocktails</a>    
+          <a href="/stockists" class="">Stockists</a>
+              
           <a href="/" class="soon">Our Suppliers (soon)</a>
-          <a href="/" class="soon">Cocktails (soon)</a>
-          <a href="/" class="soon">Shop (soon)</a>
+         
 
 
         </div>

@@ -24,7 +24,7 @@
               <div class="content-text cocktail-text">
     <?= $page->text()->kirbytext() ?>
   </div>
-
+<a href="https://shop.drinkcana.com/" target="_blank"><button class="shop-button">Shop</button></a>
 </main>
 </div>
 <?php snippet('tipstricks') ?>

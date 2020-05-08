@@ -46,7 +46,7 @@
 
 				 
 	  </div>
-
+<a href="https://shop.drinkcana.com/" target="_blank"><button class="shop-button">Shop</button></a>
 	
 </main>
 
