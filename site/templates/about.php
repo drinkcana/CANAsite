@@ -65,7 +65,7 @@ CÃNA exists to help you explore the true essence of Brazil. It is a conduit thr
 
   <p class="last-p">Wanna know more? 
     <br>
-    Check out <a href="/campaings/soledad">our suppliers</a>.
+    Check out <a href="/campaigns/soledade">our suppliers</a>.
 
   </p>
 
