@@ -21,14 +21,14 @@
   <!-- Stylesheets can be included using the `css()` helper. Kirby also provides the `js()` helper to include script file. 
         More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
   <?= css(['assets/css/index.css', '@auto']) ?>
-    <?= css(['assets/css/style.min.css', '@auto']) ?>
+    <?= css(['assets/css/style.css', '@auto']) ?>
 <?= css(['assets/css/flickity.min.css', '@auto']) ?>
 
 
 
   <?= js(['assets/js/jquery.min.js']) ?>
   <?= js(['assets/js/flickity.pkgd.min.js']) ?>
-  <?= js(['assets/js/app.min.js']) ?>
+  <?= js(['assets/js/app.js']) ?>
   <?= js(['assets/js/instafeed.min.js']) ?>
 
 
@@ -57,6 +57,7 @@
         foreach ($site->children()->listed() as $item): ?>
         <a href="<?= $item->url() ?>" class="menu-alternate"><?= $item->title() ?></a> 
         <?php endforeach ?>
+        <a href="https://shop.drinkcana.com/" class="menu-alternate" target="_blank">Shop</a>
         </div>
       </nav>
 

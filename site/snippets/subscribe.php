@@ -1,4 +1,4 @@
-<h3 class="float-left">be on the loop</h3>
+<h3 class="float-left">be in the loop</h3>
 
 <!-- Begin Mailchimp Signup Form -->
 

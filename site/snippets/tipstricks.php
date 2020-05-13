@@ -28,7 +28,7 @@
 			Don’t tell anyone, but any kind of food strainer will work. Just make sure they are properly washed, you big mess.
 		</div>
 		<div class="tip float-left">
-			<h3>Symple Syrup</h3> 
+			<h3>Simple Syrup</h3> 
 			<span class="ingredients">1 CUP OF WATER  X  1 CUP OF SUGAR </span>
 
 In a small saucepan, bring sugar and water to a boil; simmer until the sugar is dissolved, ~3 minutes. Remove from the heat and let cool completely.

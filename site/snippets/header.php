@@ -26,9 +26,9 @@ www.aparelho.tv
   <meta name="description" content="<?= $site->descr()->html() ?>">
 
 
-  <?= css(['assets/css/index.css', '@auto']) ?>
-    <?= css(['assets/css/style.min.css', '@auto']) ?>
-<?= css(['assets/css/flickity.min.css', '@auto']) ?>
+  <?= css(['assets/css/index.css']) ?>
+    <?= css(['assets/css/style.css']) ?>
+<?= css(['assets/css/flickity.min.css']) ?>
 
 
 
@@ -58,13 +58,15 @@ www.aparelho.tv
       <nav id="menu" class="menu-override">
         <a class="logo menu-full-caller"> <img src="<?php echo url('assets/images/cana-logo-icon.svg') ?>"></a>
         <div class="buttons-wrapper">
+
+
         <?php 
-        // In the menu, we only fetch listed pages, i.e. the pages that have a prepended number in their foldername
-        // We do not want to display links to unlisted `error`, `home`, or `sandbox` pages
-        // More about page status: https://getkirby.com/docs/reference/panel/blueprints/page#statuses
         foreach ($site->children()->listed() as $item): ?>
         <a href="<?= $item->url() ?>" class="menu-alternate"><?= $item->title() ?></a> 
+
         <?php endforeach ?>
+                  <a href="https://shop.drinkcana.com/" class="menu-alternate" target="_blank">Shop</a>
+
         </div>
       </nav>
 

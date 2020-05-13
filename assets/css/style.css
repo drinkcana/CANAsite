@@ -131,6 +131,7 @@ button.shop-button {
     font-size: 90%;
     padding-bottom: 7px;
     background: #ae9671;
+    z-index: 90;
 }
 
 .prod-return:hover {
@@ -214,11 +215,12 @@ button.shop-button {
 }
 
 .blending {
-    mix-blend-mode: difference
+    mix-blend-mode: difference;
 }
 
 .nav-top {
-    padding: 16px
+    padding: 16px;
+    margin-bottom: -40px;
 }
 
 button.menu-blur-caller {
@@ -356,7 +358,7 @@ a.soon:hover {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1003;
+    z-index: 10003;
     background-color: #fff;
     -webkit-transition: .5s ease;
     -o-transition: .5s ease;

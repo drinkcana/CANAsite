@@ -21,14 +21,14 @@
   <!-- Stylesheets can be included using the `css()` helper. Kirby also provides the `js()` helper to include script file. 
         More Kirby helpers: https://getkirby.com/docs/reference/templates/helpers -->
   <?= css(['assets/css/index.css', '@auto']) ?>
-    <?= css(['assets/css/style.min.css', '@auto']) ?>
+    <?= css(['assets/css/style.css', '@auto']) ?>
 <?= css(['assets/css/flickity.min.css', '@auto']) ?>
 
 
 
   <?= js(['assets/js/jquery.min.js']) ?>
   <?= js(['assets/js/flickity.pkgd.min.js']) ?>
-  <?= js(['assets/js/app.min.js']) ?>
+  <?= js(['assets/js/app.js']) ?>
 
 
 
