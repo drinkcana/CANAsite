@@ -4,11 +4,11 @@ Title: Thank you for subscribing
 
 Text:
 
-<h1> We're glad you're here </h1>
+We're glad you're here.
 
-Thank you for subscribing! You should get a little welcome letter in your inbox to confirm. 
+You know the drill, you should get a little welcome letter in your inbox to confirm. Click the button there and you're all set. 
 
-Cheers!
+Now lets drink...
 
 ----
 
