@@ -19,7 +19,8 @@
 		</div>
 		<div class="tip float-left">
 			<h3>Measuring</h3> 
-			It’s simple, 2 tablespoons = 25ml = 1 oz.
+			It’s simple:
+			<span class="ingredients">2 TBSP = 25ML = 1 OZ</span>
 		</div>
 		<div class="tip float-left">
 			<h3>Straining</h3> 
@@ -28,7 +29,7 @@
 		<div class="tip float-left">
 			<h3>Simple Syrup</h3> 
 			<span class="ingredients">1 CUP OF WATER  X  1 CUP OF SUGAR </span>
-In a small saucepan, bring sugar and water to a boil; simmer until the sugar is dissolved, ~3 minutes. Then, let it chill.
+In a saucepan, bring sugar and water to a boil; simmer until it's dissolved, ~3 minutes. Then, let it chill.
 		</div>
 
 
