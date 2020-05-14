@@ -1,0 +1,15 @@
+Title: Thank you for subscribing 
+
+----
+
+Text:
+
+<h1> We're glad you're here </h1>
+
+Thank you for subscribing! You should get a little welcome letter in your inbox to confirm. 
+
+Cheers!
+
+----
+
+Imageupload: 
