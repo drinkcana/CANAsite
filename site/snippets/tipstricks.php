@@ -11,7 +11,7 @@
 		</div>
 		<div class="tip float-left">
 				<h3>Stirring</h3> 
-			Use any of your  favorite spoons.
+			Use any of your favorite spoons.
 		</div>
 		<div class="tip float-left">
 				<h3>Muddling</h3> 
