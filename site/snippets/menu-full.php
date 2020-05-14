@@ -15,7 +15,7 @@
 
               <?php endforeach ?>
               
-           <a href="/cocktails" >Cocktails</a>    
+           <a href="/campaigns" >Campaigns</a>    
           <a href="/stockists" class="">Stockists</a>
               
           <a href="/" class="soon">Our Suppliers (soon)</a>
