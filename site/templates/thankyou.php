@@ -6,7 +6,7 @@
 
 	<div class="content">
 		<div class="content-title">
-			The Classic
+			Thank you
 		</div>
 
 		<div class="content-text prod-text">
