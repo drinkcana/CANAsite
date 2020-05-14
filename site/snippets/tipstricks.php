@@ -1,7 +1,7 @@
 <div class="tips-wrapper shadowed">
 
 	<div class="folder-caller shadowed">Tips & Tricks</div>
-	<p class="tips-intro">Making cocktails at home can seem intimidating, but fear not! Great cocktails don’t need fancy equipment, just a brave heart and some fun <a href="https://open.spotify.com/user/jq4zxkh950p520ru6sb0fwmsm"> music </a>. Below are a few tips for hitting the high notes.</p>
+	<p class="tips-intro">Making cocktails at home can seem intimidating, but fear not! Great cocktails don’t need fancy equipment, just a brave heart and some fun <a href="https://open.spotify.com/user/jq4zxkh950p520ru6sb0fwmsm"><u> music </u></a>. Below are a few tips for hitting the high notes.</p>
 
 	<div class="tips-holder">
 
