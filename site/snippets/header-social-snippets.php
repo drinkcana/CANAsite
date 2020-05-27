@@ -55,6 +55,10 @@ twq('track','PageView');
 <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7132894.js"></script>
 <!-- End of HubSpot Embed Code -->
 
+<!-- Start of Mailchimp Embed Code -->
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/808056df57373274147e42534/93d6b9aee8a901163707db691.js");</script>
+<!-- End of HubSpot Embed Code -->
+
 <!-- LinkedIn website tag code -->
 <script type="text/javascript">
 _linkedin_partner_id = "1979177";
