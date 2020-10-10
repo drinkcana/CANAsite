@@ -1549,6 +1549,17 @@ p.last-p {
   }
 }
 
+#product-component-1597957431255 {
+  position: fixed;
+  bottom: 30px;
+  left: 30px;
+  z-index: 50000;
+}
+
+.header-x a.menu-shopping:hover {
+  color: red;
+}
+
 /* SUBSCRIBE FOOTER LOGIC */
 
 .on-the-lopp {
