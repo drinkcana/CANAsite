@@ -1,19 +1,20 @@
-<h3 class="float-left">be in the loop</h3>
-
 <!-- Begin Mailchimp Signup Form -->
-
-<form action="https://drinkcana.us19.list-manage.com/subscribe/post?u=808056df57373274147e42534&amp;id=fcc803c70c" method="POST" target="_blank" accept-charset="utf-8" class="m-form" id="mc-embedded-subscribe-form">
-  <div class="m-form__pill">
-    <input id="mce-EMAIL" name="EMAIL" type="email" class="m-form__input" placeholder="give us that sweet email address" required>
-  </div>
-
-  <div style="display: none;">
-    <input id="signup-hp" type="text">
-  </div>
-
-  <div class="m-form__circle">
-    <button id="signup-submit" type="submit" class="m-form__submit">
+<div class="subscribe-container">
+  <h3 class="subscribe-title">be in the loop</h3>
+  <form class="subscribe-form" action="https://drinkcana.us19.list-manage.com/subscribe/post?u=808056df57373274147e42534&amp;id=fcc803c70c" method="POST" target="_blank" accept-charset="utf-8" id="mc-embedded-subscribe-form">
+    <input class="subscribe-email" id="mce-EMAIL" name="EMAIL" type="email" class="m-form__input" placeholder="give us that sweet email address" required>
+    <button class="subscribe-submit" id="signup-submit" type="submit">
       subscribe
     </button>
+  </form>
+
+  <div class="subscribe-social">
+    <p>Be Social</p>
+    <a href="/instagram">Instagram</a>
   </div>
-</form>
+  <div class="subscribe-privacy">
+    <a target="__blank" href="https://policies.drinkcana.com/privacy">Privacy</a>
+    <a target="__blank" href="https://policies.drinkcana.com/shipping">Shipping Policy</a>
+    <a target="__blank" href="https://policies.drinkcana.com/disclaimer">Disclaimer</a>
+  </div>
+</div>
