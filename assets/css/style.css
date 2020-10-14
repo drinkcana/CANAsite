@@ -1567,6 +1567,7 @@ p.last-p {
   align-items: flex-end;
   position: relative;
   z-index: 500000;
+  pointer-events: none;
 }
 
 .on-the-lopp {
@@ -1575,6 +1576,7 @@ p.last-p {
   background-color: white;
   height: 120px;
   padding: 0 15px;
+  pointer-events: all;
 }
 
 .subscribe-container {
