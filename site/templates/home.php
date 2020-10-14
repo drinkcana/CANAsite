@@ -6,7 +6,9 @@
 
 <?php snippet('intro') ?>
 
-<div class="on-the-lopp">
-	<?php snippet('subscribe') ?>
+<div class="scrollable-wrapper">
+	<div class="on-the-lopp">
+		<?php snippet('subscribe') ?>
+	</div>
 </div>
 
