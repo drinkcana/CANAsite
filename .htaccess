@@ -245,11 +245,11 @@ AddDefaultCharset UTF-8
 <IfModule mod_expires.c>
 
     ExpiresActive on
-    ExpiresDefault                                      "access plus 1 month"
+    ExpiresDefault                                      "access plus 1 week"
 
   # CSS
 
-    ExpiresByType text/css                              "access plus 1 year"
+    ExpiresByType text/css                              "access plus 2 month"
 
 
   # Data interchange
@@ -278,9 +278,9 @@ AddDefaultCharset UTF-8
 
   # JavaScript
 
-    ExpiresByType application/javascript                "access plus 1 year"
-    ExpiresByType application/x-javascript              "access plus 1 year"
-    ExpiresByType text/javascript                       "access plus 1 year"
+    ExpiresByType application/javascript                "access plus 1 month"
+    ExpiresByType application/x-javascript              "access plus 1 month"
+    ExpiresByType text/javascript                       "access plus 1 month"
 
 
   # Manifest files
