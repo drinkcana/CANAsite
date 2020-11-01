@@ -7,7 +7,7 @@
     </div>
 
           <div class="menu-list">
-            <a href="https://shop.drinkcana.com/" target="_blank">Shop</a>
+            <a href="https://www.drinkcana.com/product" target="_blank">Shop</a>
             <?php 
               foreach ($site->children()->visible() as $item): ?>
           
